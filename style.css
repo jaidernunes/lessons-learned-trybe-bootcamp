@@ -1,14 +1,19 @@
 body{
     background-color: rgb(253, 251, 251);
     font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    color: black
 }
+
 #cabecalho{
     top: 0;
     position: fixed;
     border: 5px solid green;    
     margin: 5px;
     padding: 5px;
-
+    font-style: italic;
+    font: 100 ;
+    line-height: 300px;
 }
 .container
 article{
@@ -27,7 +32,4 @@ th{
 #licoes_aprendidas, #licoes_a_aprender{
     display: inline-block;
     width: 400px;
-}
-#myPicture{
-    ;
 }
