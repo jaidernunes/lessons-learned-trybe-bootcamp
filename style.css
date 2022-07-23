@@ -15,7 +15,9 @@ body{
     font: 100 ;
     line-height: 300px;
 }
-.container
+.container{
+    display: inline;
+}
 article{
     display: inline-block;
     width: 400px;
